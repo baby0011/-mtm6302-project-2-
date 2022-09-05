@@ -1,1 +1,4 @@
-# -mtm6302-project-2-
+# mtm6302-project-2
+
+FINAL PROJECT - APOD Search
+STUDENT NAME - 041023967
